@@ -1,4 +1,4 @@
-# walkandfindme
+# walkandfind
 
 A diplom project.
 
